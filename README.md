@@ -128,4 +128,4 @@ I used **Claude (Anthropic)** as a learning assistant throughout this project.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Ismail-SWE](https://www.frontendmentor.io/profile/Ismail-SWE)

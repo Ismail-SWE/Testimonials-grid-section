@@ -8,9 +8,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Table of contents
 
-  - [Screenshot](#screenshot)
-
 - [Overview](#overview)
+ - [Screenshot](#screenshot)
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
